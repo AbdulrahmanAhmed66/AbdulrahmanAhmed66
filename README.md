@@ -1,6 +1,6 @@
-# 👋 Hello! I'm Abdulrahman Ahmed
+# 👋 Hi, I'm Abdulrahman Ahmed
 
-🎯 **Junior Data Analyst | Freelance Data Analyst | Excel, Power BI & SQL Enthusiast **
+🎯 **Junior Data Analyst | Freelance Data Analyst | Excel, Power BI & SQL Enthusiast**
 
 From my very first coding class as a Computer Science student, I realized that while I enjoyed building systems and solving logical problems, there was something that fascinated me even more — **data**.  
 Not just numbers on a screen, but the patterns, trends, and hidden stories that live beneath the surface.  
@@ -42,15 +42,32 @@ Key steps:
 
 ## 🛠️ Skills & Tools
 
-| Skill                | Level       |
-|----------------------|-------------|
-| Excel (Advanced)     | ✅✅✅✅✅ |
-| Power BI             | ✅✅✅✅ |
-| SQL (MySQL, MS SQL)  | ✅✅✅✅ |
-| Power Query / Pivot  | ✅✅✅✅ |
-| Data Cleaning        | ✅✅✅✅ |
-| Python (Basics)      | ✅✅✅ |
-| Minitab, Statistics  | ✅✅✅ |
+### 📊 Data Analysis
+- **Microsoft Excel (Advanced)** – Pivot Tables, VLOOKUP/XLOOKUP, Power Query, Dashboard Design
+- **Power BI** – DAX, KPIs, Interactive Dashboards
+- **SQL** – Joins, Aggregation, Filtering, Subqueries (MySQL & Microsoft SQL Server)
+- **Python** – Basics of data manipulation and analysis (Pandas, NumPy)
+
+### 🧹 Data Preparation & Cleaning
+- Data Cleaning & Transformation (Excel, SQL, Power Query)
+- Data Aggregation & Modeling
+- Power Pivot for relational data modeling
+
+### 📈 Data Visualization
+- Excel Dashboards
+- Power BI Reports
+- Visual storytelling with charts & graphs
+
+### 📚 Statistical & Analytical Thinking
+- Descriptive Statistics
+- Correlation & Trend Analysis
+- Problem Solving & Critical Thinking
+
+### 🧰 Other Tools
+- **Power Query**
+- **Power Pivot**
+- **Minitab**
+- **Git & GitHub** (Basics)
 
 ---
 
@@ -59,19 +76,3 @@ Key steps:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/abdulrahman-ahmed66)
 - 📧 Email: abdulrahmanahme681@gmail.com
 - 📞 Phone: +20 109 490 8251
-
----
-
-## 🔍 Currently Exploring
-- More advanced **Python for Data Analysis**
-- Real-world freelance projects to sharpen business problem-solving
-- Building my **portfolio** on GitHub and LinkedIn
-
----
-
-## 💡 Fun Fact  
-I believe that **data doesn’t lie — but it needs the right person to make it speak**.
-
----
-
-_Thank you for visiting my profile! Let’s connect and collaborate._ 🤝
