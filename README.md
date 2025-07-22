@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdulrahman Ahmed
+# Abdulrahman Ahmed
 
 🎯 **Junior Data Analyst | Freelance Data Analyst | Excel, Power BI & SQL Enthusiast**
 
