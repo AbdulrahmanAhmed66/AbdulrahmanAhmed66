@@ -1,6 +1,6 @@
 # Abdulrahman Ahmed
 
-**Junior Data Analyst | Freelance Data Analyst | Excel, Power BI & SQL Enthusiast**
+**Junior Data Analyst | Freelance Data Analyst | Excel, Power BI & SQL **
 
 From my very first coding class as a Computer Science student, I realized that while I enjoyed building systems and solving logical problems, there was something that fascinated me even more — **data**.  
 Not just numbers on a screen, but the patterns, trends, and hidden stories that live beneath the surface.  
