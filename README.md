@@ -21,7 +21,7 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 
 ## Projects
 
-### [HR Analysis Project] 
+## [HR Analysis Project] 
 ### **(April 2025)**  
 **🛠 Tools:**  
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Excel** (Power Query, Pivot Tables, Dashboard)
