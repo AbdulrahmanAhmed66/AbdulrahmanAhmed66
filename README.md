@@ -34,10 +34,6 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 
 ## [Sales Analysis Project](https://github.com/AbdulrahmanAhmed66/Sales-Analysis-Project)
 ### **(March 2025)**  
-### 🛠 Tools Used  
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Microsoft Excel**  
-**Features Used:** Power Query – Pivot Tables – Power Pivot – Data Visualization
-
 ### Description  
 This Sales Data Analysis project showcases how I used **Excel** to transform and analyze four years of sales data (2015–2018). The goal was to uncover meaningful insights and trends through data aggregation, cleaning, modeling, and visualization.
 
@@ -48,7 +44,9 @@ This Sales Data Analysis project showcases how I used **Excel** to transform and
 - 🔹 **Dashboard**: Created a professional and interactive **Excel dashboard** to present insights in a clear and dynamic way
 
 > 💡 This project strengthened my hands-on skills in advanced Excel techniques and prepared me for deeper analysis tasks using larger datasets.
-
+### 🛠 Tools Used  
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Microsoft Excel**  
+**Features Used:** Power Query – Pivot Tables – Power Pivot – Data Visualization
 
 ---
 
