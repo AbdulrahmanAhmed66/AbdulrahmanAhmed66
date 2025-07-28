@@ -33,7 +33,6 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 - Built an **interactive dashboard** to visualize HR trends clearly
 
 ## [Sales Analysis Project](https://github.com/AbdulrahmanAhmed66/Sales-Analysis-Project)
-### **(March 2025)**  
 ### Description  
 This Sales Data Analysis project showcases how I used **Excel** to transform and analyze four years of sales data (2015–2018). The goal was to uncover meaningful insights and trends through data aggregation, cleaning, modeling, and visualization.
 
