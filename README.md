@@ -21,7 +21,8 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 
 ## Projects
 
-### **HR Analysis Project** *(April 2025)*  
+### [HR Analysis Project] 
+### **(April 2025)**  
 **🛠 Tools:**  
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Excel** (Power Query, Pivot Tables, Dashboard)
 
@@ -31,14 +32,23 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 - Explored questions like: *"Is there a link between experience & performance?"*  
 - Built an **interactive dashboard** to visualize HR trends clearly
 
-### **Sales Analysis Project** *(March 2025)*  
-**🛠 Tools:**  
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Excel** (Power Query, Pivot Tables, Power Pivot)
+## [Sales Analysis Project]([https://github.com/AbdulrahmanAhmed66/Sales-Analysis-Project])
+### **(March 2025)**  
+### 🛠 Tools Used  
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Microsoft Excel**  
+**Features Used:** Power Query – Pivot Tables – Power Pivot – Data Visualization
 
-- Combined 4 years of sales data into one unified dataset  
-- Cleaned and modeled data using Merge & Power Pivot  
-- Analyzed top-selling products and yearly trends  
-- Built a powerful **sales dashboard** to uncover insights from 2015–2018
+### Description  
+This Sales Data Analysis project showcases how I used **Excel** to transform and analyze four years of sales data (2015–2018). The goal was to uncover meaningful insights and trends through data aggregation, cleaning, modeling, and visualization.
+
+- 🔹 **Data Aggregation**: Combined multiple yearly datasets using Power Query (Append)  
+- 🔹 **Data Cleaning**: Removed blanks, merged relevant fields, and ensured consistency  
+- 🔹 **Data Modeling**: Built relationships between tables using Power Pivot  
+- 🔹 **Analysis**: Identified top-selling products, seasonal trends, and performance changes  
+- 🔹 **Dashboard**: Created a professional and interactive **Excel dashboard** to present insights in a clear and dynamic way
+
+> 💡 This project strengthened my hands-on skills in advanced Excel techniques and prepared me for deeper analysis tasks using larger datasets.
+
 
 ---
 
