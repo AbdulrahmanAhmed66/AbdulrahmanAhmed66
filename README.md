@@ -32,7 +32,7 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 - Explored questions like: *"Is there a link between experience & performance?"*  
 - Built an **interactive dashboard** to visualize HR trends clearly
 
-## [Sales Analysis Project]([https://github.com/AbdulrahmanAhmed66/Sales-Analysis-Project])
+## [Sales Analysis Project](https://github.com/AbdulrahmanAhmed66/Sales-Analysis-Project)
 ### **(March 2025)**  
 ### 🛠 Tools Used  
 <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Microsoft Excel**  
