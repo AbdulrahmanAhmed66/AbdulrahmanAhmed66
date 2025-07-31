@@ -21,15 +21,22 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 
 ## Projects
 
-## [HR Analysis Project]   
-**🛠 Tools:**  
-<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Excel** (Power Query, Pivot Tables, Dashboard)
+## [HR Analysis Project](https://github.com/AbdulrahmanAhmed66/HR-Analysis-Project)
+### Description  
+This HR Data Analysis project demonstrates how I used **Microsoft Excel** to collect, clean, and analyze employee data from multiple departments. The objective was to gain valuable insights into workforce structure, experience, performance, and salary distribution to support HR decision-making.
 
-- Cleaned HR data for accuracy and consistency  
-- Combined departmental data using Append Queries  
-- Created calculated columns (Age, Experience, Performance Avg.)  
-- Explored questions like: *"Is there a link between experience & performance?"*  
-- Built an **interactive dashboard** to visualize HR trends clearly
+- 🔹 **Data Aggregation**: Merged data from five departments (Sales, Marketing, IT, HR, Finance) using Power Query (Append)  
+- 🔹 **Data Cleaning**: Removed duplicates, handled missing values, and standardized column formats  
+- 🔹 **Feature Engineering**: Added new fields such as Age, Years of Experience, Performance Category  
+- 🔹 **Data Modeling**: Structured data for easy use in PivotTables and dashboard filters  
+- 🔹 **Dashboard**: Built a dynamic and interactive **HR dashboard** to present key metrics and insights clearly
+
+> 💡 This project strengthened my Excel analytics skills and showed how HR teams can make data-driven decisions using simple yet powerful tools.
+
+### 🛠 Tools Used  
+<img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" height="20"/> **Microsoft Excel**  
+**Features Used:** Power Query – Calculated Columns – Pivot Tables – Interactive Dashboard – Data Visualization
+
 
 ## [Sales Analysis Project](https://github.com/AbdulrahmanAhmed66/Sales-Analysis-Project)
 ### Description  
