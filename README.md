@@ -21,6 +21,24 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 
 ## Projects
 
+## [Power BI Sales Dashboard](https://github.com/AbdulrahmanAhmed66/Power-BI-Sales-Dashboard)
+### 📄 Description  
+This **Sales Analysis Dashboard** project demonstrates how I used **Power BI** to transform raw sales data into an interactive and insightful reporting tool.  
+
+The goal was to analyze revenue, orders, product categories, and regional performance to support **strategic business decisions** in sales, inventory planning, and market expansion.  
+
+- 🔹 **Data Preparation** → Imported raw sales data and cleaned it using **Power Query**  
+- 🔹 **Data Modeling** → Built a **Star Schema** with fact and dimension tables (Date, Product, Territory, Status, Ship Method)  
+- 🔹 **DAX Measures** → Created custom measures for key KPIs (Revenue, Total Due, Freight, YTD/MTD calculations)  
+- 🔹 **Calculation Groups** → Implemented for dynamic time intelligence (Previous Year, MTD, QTD comparisons)  
+- 🔹 **Dashboard Design** → Built an interactive dashboard with slicers, filters, and visualizations for orders, revenue, freight, and product performance  
+
+> 💡 This project strengthened my **Power BI development skills** and demonstrated how organizations can leverage **data-driven insights** to optimize sales strategy, monitor performance, and identify opportunities for growth.  
+
+### 🛠 Tools Used  
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" height="20"/> **Microsoft Power BI**    
+Power Query – DAX – Star Schema – Calculation Groups – Interactive Dashboard – Data Visualization  
+
 ## [HR Analysis Project](https://github.com/AbdulrahmanAhmed66/HR-Analysis-Project)
 ### Description  
 This HR Data Analysis project demonstrates how I used **Microsoft Excel** to collect, clean, and analyze employee data from multiple departments. The objective was to gain valuable insights into workforce structure, experience, performance, and salary distribution to support HR decision-making.
