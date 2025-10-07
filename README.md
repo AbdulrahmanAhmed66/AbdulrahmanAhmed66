@@ -21,6 +21,24 @@ I'm Abdulrahman Ahmed, a passionate **Data Analyst** who helps uncover insights 
 
 ## Projects
 
+## [Uber Dashboard](https://github.com/AbdulrahmanAhmed66/Uber_Dashboard)
+### 📄 Description
+This **Uber Operations Dashboard** project demonstrates how I used **Power BI** to transform raw ride request data into an interactive and insightful analytics solution.
+
+The goal was to diagnose operational inefficiencies, uncover critical supply-demand imbalances, and identify driver performance gaps to support **strategic business decisions** in fleet allocation, driver incentives, and customer service quality.
+
+- 🔹 **Data Preparation** → Imported and cleansed raw Uber operational data using **Power Query**, resolving inconsistencies and ensuring data accuracy.
+- 🔹 **Data Modeling** → Built a structured data model by establishing relationships between fact tables (Ride Requests) and dimension tables (Drivers, Date, Time, Location).
+- 🔹 **DAX Measures** → Created custom measures for key KPIs (Completion Rate, Unfulfillment Rate) and dynamic time-based analysis to track hourly and daily trends.
+- 🔹 **Dashboard Design** → Built two interconnected, interactive dashboards for Performance Overview and Supply-Demand Analysis with slicers, filters, and drill-through visuals.
+
+> 💡 This project strengthened my **Power BI development skills** and demonstrated how organizations can leverage **data-driven insights** to optimize operations, monitor performance, and capture an estimated $2.8M in potential revenue.
+
+### 🛠 Tools Used  
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" height="20"/> **Microsoft Power BI**    
+Power Query – DAX – Star Schema – Calculation Groups – Interactive Dashboard – Data Visualization  
+
+
 ## [Power BI Sales Dashboard](https://github.com/AbdulrahmanAhmed66/Power-BI-Sales-Dashboard)
 ### 📄 Description  
 This **Sales Analysis Dashboard** project demonstrates how I used **Power BI** to transform raw sales data into an interactive and insightful reporting tool.  
