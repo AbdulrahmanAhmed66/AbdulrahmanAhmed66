@@ -36,7 +36,7 @@ The goal was to diagnose operational inefficiencies, uncover critical supply-dem
 
 ### 🛠 Tools Used  
 <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="20"/> **Microsoft Power BI**    
-Power Query – DAX – Star Schema – Calculation Groups – Interactive Dashboard – Data Visualization  
+Power Query – DAX – time intelligence – Calculation Groups – Interactive Dashboard – Data Visualization  
 
 
 ## [Power BI Sales Dashboard](https://github.com/AbdulrahmanAhmed66/Power-BI-Sales-Dashboard)
